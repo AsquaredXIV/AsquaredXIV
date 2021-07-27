@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AsquaredXIV
+- 👀 I’m interested in Financial software and AI
+- 🌱 I’m currently learning AI
